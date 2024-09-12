@@ -7,7 +7,7 @@
 * Task 5: BinaryToDecimal
 * 
 * @author Tushar Pareek
-* @since  03/09/2024
+* @since  11/09/2024
 */
 import java.util.Scanner;
  public class Week2Assignment2 {
